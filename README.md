@@ -1,9 +1,3 @@
-Below is a polished, expert-style `README.md` you can copy-paste into your repository root.
-It is tailored to the pipeline and results you produced (YOLOv8 on a Pascal-VOC subset), includes exact commands used in Colab/VS Code, the key metrics you reported, and clear reproduction / submission steps.
-
-Copy the whole block below and paste into `README.md` in your repo.
-
-```
 # Efficient Object Detection + Robustness Analysis
 
 **End-to-end YOLOv8 pipeline** for training, analyzing, and optimizing object detection on a small Pascal VOC subset (classes: `person`, `car`, `dog`).  
