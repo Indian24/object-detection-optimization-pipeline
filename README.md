@@ -241,3 +241,102 @@ files.download("final_submission.zip")
 ---
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🖼️ Sample Predictions
+
+Below are real inference outputs from the trained YOLOv8 model on unseen validation images.
+
+These demonstrate:
+- Accurate bounding box localization
+- Correct class prediction
+- Confidence scoring in real-world scenes
+
+---
+
+### 🐶 Dog Detection (Confidence: 0.82)
+
+![Dog Detection](results/predict/2008_000080.jpg)
+
+The model correctly identifies a dog with a high-confidence bounding box in a natural indoor environment, showcasing strong generalization on non-curated scenes.
+
+---
+
+### 📌 More Predictions
+Additional predictions are available in:
+
+```
+
+results/predict/
+
+```
+
+These include detections across:
+- Person
+- Car
+- Dog
+
+All images are generated directly using the trained `best.pt` weights.
+```
+
+---
+
+# ⭐ If You Want Slightly More Premium Version
+
+(Add 2–3 images)
+
+```md
+## 🖼️ Sample Predictions
+
+Representative outputs from the trained detector.
+
+---
+
+### 🐶 Dog Detection — Confidence 0.82
+![Dog Detection](results/predict/2008_000080.jpg)
+
+### 🚶 Person Detection
+![Person Detection](results/predict/2008_000051.jpg)
+
+### 🚗 Car Detection
+![Car Detection](results/predict/2008_000034.jpg)
+
+---
+
+All predictions were generated using the final trained YOLOv8 model without manual filtering.
+```
+
+---
+
+# 🔥 Why This Works Well
+
+This version:
+
+* Looks professional
+* Explains the image
+* Builds trust
+* Matches submission expectations
+
+Recruiters love this format.
+
+
+
+---
+
+
+
+
+
