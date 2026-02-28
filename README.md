@@ -3,6 +3,10 @@
 **End-to-end YOLOv8 pipeline** for training, analyzing, and optimizing object detection on a small Pascal VOC subset (classes: `person`, `car`, `dog`).  
 This repository demonstrates transfer learning, overfitting analysis, latency optimization, export to ONNX, INT8 quantization, and failure-case debugging for real-world deployment.
 
+
+🚀 **Open in Colab:**  
+https://colab.research.google.com/drive/1k3K10gKtX1x20ohEqlFTnrXyCVnkSNIo?usp=sharing
+
 ---
 
 ## 🔑 Key results (experiment summary)
