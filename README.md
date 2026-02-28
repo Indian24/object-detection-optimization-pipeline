@@ -195,6 +195,13 @@ print("mAP after optimization:", metrics_small.box.map50)
 
 ---
 
+## 📊 Comparison Table
+
+| Model Version | Image Size | mAP@0.5 | Precision | Recall | FPS |
+|--------------|-----------|--------|----------|--------|-----|
+| Baseline YOLOv8s | 768 | 0.8479 | 0.865 | 0.75 | 57.18 |
+| Optimized (Smaller Input) | 512 | 0.8336 | 0.84 | 0.72 | 96.72 |
+
 ## 🔧 Useful terminal commands (VS Code / local)
 
 ```
