@@ -290,7 +290,7 @@ These include detections across:
 - Dog
 
 All images are generated directly using the trained `best.pt` weights.
-```
+
 
 ---
 
@@ -298,12 +298,11 @@ All images are generated directly using the trained `best.pt` weights.
 
 (Add 2–3 images)
 
-```md
+
 ## 🖼️ Sample Predictions
 
 Representative outputs from the trained detector.
 
----
 
 ### 🐶 Dog Detection — Confidence 0.82
 ![Dog Detection](results/predict/2008_000080.jpg)
@@ -314,25 +313,9 @@ Representative outputs from the trained detector.
 ### 🚗 Car Detection
 ![Car Detection](results/predict/2008_000034.jpg)
 
----
+
 
 All predictions were generated using the final trained YOLOv8 model without manual filtering.
-```
-
----
-
-# 🔥 Why This Works Well
-
-This version:
-
-* Looks professional
-* Explains the image
-* Builds trust
-* Matches submission expectations
-
-Recruiters love this format.
-
-
 
 ---
 
