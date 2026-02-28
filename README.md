@@ -294,10 +294,6 @@ All images are generated directly using the trained `best.pt` weights.
 
 ---
 
-# ⭐ If You Want Slightly More Premium Version
-
-(Add 2–3 images)
-
 
 ## 🖼️ Sample Predictions
 
