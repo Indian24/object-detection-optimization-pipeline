@@ -299,10 +299,6 @@ All images are generated directly using the trained `best.pt` weights.
 
 Representative outputs from the trained detector.
 
-
-### 🐶 Dog Detection — Confidence 0.82
-![Dog Detection](results/predict/2008_000080.jpg)
-
 ### 🚶 Person Detection
 ![Person Detection](results/predict/2008_000051.jpg)
 
