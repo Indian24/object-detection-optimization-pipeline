@@ -302,7 +302,7 @@ Representative outputs from the trained detector.
 ### 🚶 Person Detection
 ![Person Detection](results/predict/2008_000051.jpg)
 
-### 🚗 Car Detection
+###      Person Detection
 ![Car Detection](results/predict/2008_000034.jpg)
 
 
